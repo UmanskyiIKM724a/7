@@ -19,6 +19,4 @@ int main() {
         }
         cout << "The number is PRIME" << endl;
     }
-
-    //fdfd
 }
